@@ -1,0 +1,33 @@
+{
+    "fingerprint": [{
+        "cms": "致远OA",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["/seeyon/USER-DATA/IMAGES/LOGIN/login.gif"]
+    }, {
+        "cms": "亿华人力资源管理系统",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["<meta name=\"description\" content=\"亿华人力资源管理系统\" />"]
+    }, {
+        "cms": "WordPress",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["wp-admin","wp-content/"]
+     }, {
+        "cms": "WordPress",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["wp-","wp-content/themes/"]
+     }, {
+        "cms": "WordPress",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["name=\"generator\" content=\"wordpress ", "/wp-includes/"]
+    }, {
+        "cms": "Gitblit",
+        "method": "keyword",
+        "location": "body",
+        "keyword": ["gitblt-favicon.png","gitblit"]
+    }]
+}
